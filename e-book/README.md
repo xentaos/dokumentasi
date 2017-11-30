@@ -1,4 +1,3 @@
-# Xenta OS - Developer 
 ## Project
 **Panduan Desktop** <!-- ([project](desktop)) -->
  * E-Book Panduan Desktop Xenta OS Cinnamon Edisi
