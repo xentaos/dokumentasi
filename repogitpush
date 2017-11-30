@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+figlet repogitpush
+git remote set-url origin git@github.com:xentaos/kesenian.git
+git pull
+git add -A
+git commit -am "update"
+git push
