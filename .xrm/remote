@@ -12,7 +12,9 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
+team=dokumentasi
+
 cd ..
 echo " Set Remote... "
-git remote set-url origin git@github.com:xentaos/dokumentasi.git
+git remote set-url origin git@github.com:xentaos/$team.git
 echo " Berhasil... "

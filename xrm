@@ -12,9 +12,11 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-figlet dokumentasi
+team=dokumentasi
+
+figlet $team
 echo " Set Remote... "
-git remote set-url origin git@github.com:xentaos/dokumentasi.git
+git remote set-url origin git@github.com:xentaos/$team.git
 echo " Pull Request Github... "
 git pull
 echo " Git Add Local... "
