@@ -1,21 +1,39 @@
 # Xenta OS - Developer
-Project Tim Dokumentasi:
-
-## [desktop](desktop)
-Directory Project Bagian Panduan Desktop
+## Project
+Project Tim Dokumentasi  
+### [desktop](desktop)
+Directory Project **Bagian Panduan Desktop**  
+Progres Project
  * E-Book Panduan Desktop Xenta OS Cinnamon Edisi  
-   Project Source [Download .odt](../blob/master/e-book/desktop/E-Book%20Panduan%20Desktop%20Xenta%20OS%20Cinnamon%20Edisi.odt)
+   [Source .odt](../blob/master/e-book/desktop/E-Book%20Panduan%20Desktop%20Xenta%20OS%20Cinnamon%20Edisi.odt)
 
  * E-Book Panduan Desktop Xenta OS Xfce Edisi
 
-## install
-Directory Project Bagian Panduan Install
+### [install](install)
+Directory Project **Bagian Panduan Install**  
+Progres Project
  * E-Book Panduan Installasi Xenta OS
 
-## manual
-Directory Project Bagian Panduan Manual
+### [manual](manual)
+Directory Project **Bagian Panduan Manual**  
+Progres Project
  * 
 
-## perintah
-Directory Project Bagian Panduan Perintah
+### [perintah](perintah)
+Directory Project **Bagian Panduan Perintah**  
+Progres Project
  * E-Book Panduan Dasar Perintah Linux
+
+## Team
+Leader Tim         : 
+ * Dindin Hernawan <root@dev.xentaos.org>
+
+Tim Dokumentasi    :
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
