@@ -1,0 +1,2 @@
+https://help.gnome.org/users/gnome-help/stable/
+https://help.gnome.org/users/gnome-help/stable/shell-introduction.html.id
