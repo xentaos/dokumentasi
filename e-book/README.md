@@ -13,17 +13,3 @@
 
 **Panduan Perintah** <!-- [project](perintah) -->
  * E-Book Panduan Dasar Perintah Linux
-
-## Team
-**Leader**
- * Dindin Hernawan <root@dev.xentaos.org>
-
-**Developer**
- *  
- *  
- *  
- *  
- *  
- *  
- *  
- *  
