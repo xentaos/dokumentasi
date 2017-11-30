@@ -1,9 +1,9 @@
 # Team
-**Leader**
- * Dindin Hernawan <root@dev.xentaos.org>
+**Leader**  
+ *  Dindin Hernawan <root@dev.xentaos.org>
 
 **Developer**  
- *  
+<!-- * Nama <E-Mail> -->
  *  
  *  
  *  
