@@ -16,12 +16,12 @@
  * E-Book Panduan Dasar Perintah Linux
 
 ## Developer Project
-Leader Tim         : 
+Leader Tim         :
  * Dindin Hernawan <root@dev.xentaos.org>
 
-Tim Dokumentasi    :
+Tim Dokumentasi    :  
  * 
- * 
+ *  
  * 
  * 
  * 
