@@ -1,7 +1,7 @@
 # Xenta OS - Developer
 Project Tim Dokumentasi:
 
-## [desktop](../tree/master/e-book/desktop)
+## [desktop](../desktop)
 Directory Project Bagian Panduan Desktop
  * E-Book Panduan Desktop Xenta OS Cinnamon Edisi  
    Project Source [Download .odt](../blob/master/e-book/desktop/E-Book%20Panduan%20Desktop%20Xenta%20OS%20Cinnamon%20Edisi.odt)
