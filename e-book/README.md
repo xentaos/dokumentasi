@@ -1,16 +1,16 @@
 # Xenta OS - Developer
 ## Project
-[Bagian Panduan Desktop](desktop)
+**Panduan Desktop**[Source](desktop)
  * E-Book Panduan Desktop Xenta OS Cinnamon Edisi[.odt](../blob/master/e-book/desktop/E-Book%20Panduan%20Desktop%20Xenta%20OS%20Cinnamon%20Edisi.odt)
  * E-Book Panduan Desktop Xenta OS Xfce Edisi[.odt](../blob/master/e-book/desktop/E-Book%20Panduan%20Desktop%20Xenta%20OS%20Xfce%20Edisi.odt)
 
-[Bagian Panduan Install](install)
+**Bagian Panduan Install**[Source](install)
  * E-Book Panduan Installasi Xenta OS  
 
-[Bagian Panduan Manual](manual)
+**Panduan Manual**[Source](manual)
  * 
 
-[Bagian Panduan Perintah](perintah)
+**Panduan Perintah**[Source](perintah)
  * E-Book Panduan Dasar Perintah Linux  
 
 ## Team
