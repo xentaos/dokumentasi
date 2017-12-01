@@ -12,8 +12,9 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-cd ..
-echo " Git Commit Local... "
-git commit -am "update"
-echo " Berhasil... "
+team=dokumentasi
 
+cd ../../
+echo " Set Remote... "
+git remote set-url origin git@github.com:xentaos/$team.git
+echo " Berhasil... "

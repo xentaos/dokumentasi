@@ -12,7 +12,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-cd ..
-echo " Git Push Local to Github... "
-git push
+cd ../../
+echo " Git Add Local... "
+git add -A
 echo " Berhasil... "
