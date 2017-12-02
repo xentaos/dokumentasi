@@ -10,9 +10,11 @@
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
-team=dokumentasi
+repository=dokumentasi
+update="Update"
+figlet $repository
 echo "Set Remote $team..."
-git remote set-url origin git@github.com:xentaos/$team.git
+git remote set-url origin git@github.com:xentaos/$repository.git
 echo "Berhasil..."
 echo "Pull Request Github..."
 git pull
@@ -21,7 +23,7 @@ echo "Git Add Local..."
 git add -A
 echo "Berhasil..."
 echo "Git Commit Local..."
-git commit -am "Update"
+git commit -am "$update"
 echo "Berhasil..."
 echo "Git Push Local to Github..."
 git push

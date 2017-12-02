@@ -10,6 +10,7 @@
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
+update="Update"
 echo " Git Commit Local..."
-git commit -am "Update"
+git commit -am "$update"
 echo " Berhasil..."
