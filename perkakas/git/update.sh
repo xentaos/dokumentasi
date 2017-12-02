@@ -12,8 +12,13 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-cd ../../
-echo " Pull Request Github... "
-git pull
-echo " Berhasil... "
+team=dokumentasi
+
+figlet $team
+cd ./perkakas/git
+./remote.sh
+./pull.sh
+./add.sh
+./commit.sh
+./push.sh
 
