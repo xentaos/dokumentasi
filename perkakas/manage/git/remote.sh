@@ -10,8 +10,15 @@
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
-team=dokumentasi
-cd ../../
-echo " Set Remote $team..."
-git remote set-url origin git@github.com:xentaos/$team.git
+repository="Nama Repository Git"
+echo " Set Remote $repository..."
+git remote set-url origin git@github.com:xentaos/$repository.git
 echo " Berhasil..."
+
+# Contoh Lokasi Repository xenta-x-icons di github di akses melalui ssh 
+# git@github.com:xentaos/xenta-x-icons.git
+# Maka diisi cukup variablenya repository=""
+# repository="xenta-x-icons"
+# echo " Set Remote $repository..."
+# git remote set-url origin git@github.com:xentaos/$repository.git
+# echo " Berhasil..."
