@@ -11,18 +11,18 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 team=dokumentasi
-echo " Set Remote $team..."
+echo "Set Remote $team..."
 git remote set-url origin git@github.com:xentaos/$team.git
-echo " Berhasil..."
-echo " Pull Request Github..."
+echo "Berhasil..."
+echo "Pull Request Github..."
 git pull
-echo " Berhasil..."
-echo " Git Add Local..."
+echo "Berhasil..."
+echo "Git Add Local..."
 git add -A
-echo " Berhasil..."
-echo " Git Commit Local..."
+echo "Berhasil..."
+echo "Git Commit Local..."
 git commit -am "Update"
-echo " Berhasil..."
-echo " Git Push Local to Github..."
+echo "Berhasil..."
+echo "Git Push Local to Github..."
 git push
-echo " Berhasil..."
+echo "Berhasil..."
