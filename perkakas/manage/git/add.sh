@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This file is part of XPM - Xenta Project Management.
+# This file is part of Xenta OS  Organization - Project Management.
 # 
 # add.sh is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
