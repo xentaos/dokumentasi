@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+project='kesenian'
+# project divisi = artwork design promotion
+figlet MakeFile
+mkdir -p $project/{concept,source}
+echo "" > $project/concept/README.md
+echo "" > $project/source/README.md
+cp src/svg2png $project/source/
+cp src/_xenta_os_art.png $project/source/
+cp src/_xenta_os_art.svg $project/source/
+cp src/README.md $project/
+cp TEAM.md $project/
