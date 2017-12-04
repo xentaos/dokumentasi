@@ -1,18 +1,32 @@
-# Dokumentasi (Documentation)
-**Indonesia**  
-Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik Bergabung ? [Gabung Disini].
+# Dokumentasi
+Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik Bergabung ? [Gabung Disini](http://dev.xentaos.org/join.html).
 
-**English**  
-Xenta OS is the Distribution of GNU / Linux Local Operating System Indonesia. This project is open to anyone who wants to contribute. The purpose of the establishment of this project is one of them as a container of creativity and community of fellow activists GNU/Linux origin Indonesia. Interested in Joining? [Join Here].
+Perangkat Lunak yang diperlukan dalam Berkontribusi:  
+**Required:**  
+ * [LibreOffice](https://www.libreoffice.org/)
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+> sudo apt-get install libreoffice
 
-## Tim (Team)
-**Indonesia**  
+ * [Evince](https://wiki.gnome.org/Apps/Evince)
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+> sudo apt-get install evince
+
+ * [Poedit](https://poedit.net/)
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+> sudo apt-get install poedit
+
+**Optional:**  
+ * [Geany](https://www.geany.org/)  
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+> sudo apt-get install geany
+
+ * [Bluefish](bluefish.openoffice.nl/)  
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+> sudo apt-get install bluefish
+
+## Team
 Tim Dokumentasi.  
-Kunjungi [Pengembang Situs Web Disini](http://dev.xentaos.org/team.html)
-
-**English**
-Tim Dokumentasi.  
-Visit to [Website Developer](http://dev.xentaos.org/team.html)
+Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Mission
 Mission Tim Dokumentasi.  
@@ -26,13 +40,12 @@ Kunjungi [Website Developer](http://dev.xentaos.org/project.html)
 Progress Tim Dokumentasi.  
 Kunjungi [Website Developer](http://dev.xentaos.org/progress.html)
 
-## Perkakas
-Perkakas Perangkat Lunak Free/Open Source Software Graphic Editor.  
-**Required:**  
- * [LibreOffice](https://www.blender.org/)
- * [Poedit](https://poedit.net/)
- * [Evince](https://wiki.gnome.org/Apps/Evince)
+## Notes
+**Contribution**
+ * Dalam Berkontribusi Distro yang digunakan Boleh Bebas.
+ * Memasang Perangkat Lunak Yang dibutuhkan.
 
-**Optional:**  
- * [Geany](https://www.geany.org/) 
- * [Bleufish](bluefish.openoffice.nl/) 
+**Developer**
+ * Untuk Menjadi Developer Xenta OS Persyaratan Memasang Xenta OS.
+ * Memasang Perangkat Lunak Yang dibutuhkan.
+> Kebijakan Developer Boleh Menggunakan Distro Selain Xenta OS Persyaratan Minimal Memasang Xenta OS secara Virtual atau Dual Boot.
