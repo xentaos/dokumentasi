@@ -13,6 +13,7 @@
 repository=dokumentasi
 update="Pembaharuan"
 figlet $repository
+#ping 8.8.8.8
 cd ..
 echo "Set Remote $team..."
 git remote set-url origin git@github.com:xentaos/$repository.git
