@@ -1,18 +1,18 @@
 # Dokumentasi
-Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik Bergabung ? [Gabung Disini](http://dev.xentaos.org/join.html).
+Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik bergabung ? [Gabung disini](http://dev.xentaos.org/join.html).
 
 Perangkat Lunak yang diperlukan dalam Berkontribusi:  
 **Required:**  
  * [LibreOffice](https://www.libreoffice.org/)  
-Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
+Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install libreoffice
 
  * [Evince](https://wiki.gnome.org/Apps/Evince)  
-Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
+Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install evince
 
  * [Poedit](https://poedit.net/)  
-Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
+Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install poedit
 
 **Optional:**  
@@ -25,24 +25,24 @@ Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
 > sudo apt-get install bluefish
 
 ## Team
-Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
+Tim Dokumentasi. [Disini](http://dev.xentaos.org/team.html)
 
 ## Mission
-Mission Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/mission.html)
+Mission Tim Dokumentasi. [Disini](http://dev.xentaos.org/mission.html)
 
 ## Project
-Project Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/project.html)
+Project Tim Dokumentasi. [Disini](http://dev.xentaos.org/project.html)
 
 ## Progress
-Progress Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/progress.html)
+Progress Tim Dokumentasi. [Disini](http://dev.xentaos.org/progress.html)
 
 ## Notes
 **Contribution**
- * Dalam Berkontribusi Distro yang digunakan Boleh Bebas.
- * Memasang Perangkat Lunak Yang dibutuhkan.
+ * Dalam Berkontribusi Distro yang digunakan boleh bebas.
+ * Memasang Perangkat Lunak yang dibutuhkan.
 
 **Developer**
- * Untuk Menjadi Developer Xenta OS Persyaratan Memasang Xenta OS*.
- * Memasang Perangkat Lunak Yang dibutuhkan.
+ * Untuk menjadi Developer Xenta OS Persyaratan memasang Xenta OS*.
+ * Memasang Perangkat Lunak yang dibutuhkan.
 > ***Kebijakan:**  
->  * Boleh Menggunakan Distro Selain Xenta OS dengan syarat memasang Xenta OS secara Virtual atau Dual Boot.
+>  * Diijinkan menggunakan Distro selain Xenta OS dengan syarat memasang Xenta OS secara Virtual atau Dual Boot.
