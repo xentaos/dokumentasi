@@ -42,7 +42,7 @@ Progress Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/pr
  * Memasang Perangkat Lunak Yang dibutuhkan.
 
 **Developer**
- * Untuk Menjadi Developer Xenta OS Persyaratan Memasang Xenta OS.
+ * Untuk Menjadi Developer Xenta OS Persyaratan Memasang Xenta OS*.
  * Memasang Perangkat Lunak Yang dibutuhkan.
 > **Kebijakan:**  
-> Boleh Menggunakan Distro Selain Xenta OS Persyaratan Minimal Memasang Xenta OS secara Virtual atau Dual Boot.
+>  * Boleh Menggunakan Distro Selain Xenta OS dengan syarat memasang Xenta OS secara Virtual atau Dual Boot.
