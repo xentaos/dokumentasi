@@ -8,11 +8,11 @@ Xenta OS is the Distribution of GNU / Linux Local Operating System Indonesia. Th
 ## Tim (Team)
 **Indonesia**
 Tim Dokumentasi.  
-Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
+Kunjungi [Pengembang Situs Web Disini](http://dev.xentaos.org/team.html)
 
 **English**
 Tim Dokumentasi.  
-Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
+Visit to [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Mission
 Mission Tim Dokumentasi.  
