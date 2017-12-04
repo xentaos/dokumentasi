@@ -1,12 +1,12 @@
 # Dokumentasi (Documentation)
-**Indonesia**
+**Indonesia**  
 Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik Bergabung ? [Gabung Disini].
 
-**English**
+**English**  
 Xenta OS is the Distribution of GNU / Linux Local Operating System Indonesia. This project is open to anyone who wants to contribute. The purpose of the establishment of this project is one of them as a container of creativity and community of fellow activists GNU/Linux origin Indonesia. Interested in Joining? [Join Here].
 
 ## Tim (Team)
-**Indonesia**
+**Indonesia**  
 Tim Dokumentasi.  
 Kunjungi [Pengembang Situs Web Disini](http://dev.xentaos.org/team.html)
 
