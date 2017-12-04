@@ -1,10 +1,17 @@
-# Dokumentasi
-**Xenta OS** merupakan Sebuah Distribusi (Distro) Sistem Operasi Bebas/Merdeka GNU/Linux Lokal Indonesia.
-Didistribusikan oleh **X7 Project (X7P)** Sebuah Project Non-Profit.
-Didirikan oleh Dindin Hernawan Bertujuan sebagai Wadah Berkomunitas Sesama Penggiat GNU/Linux dan Kreatifitas Kesenian Digital.  
+# Dokumentasi (Documentation)
+**Indonesia**
+Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik Bergabung ? [Gabung Disini].
 
-## Team
-Team Dokumentasi.  
+**English**
+Xenta OS is the Distribution of GNU / Linux Local Operating System Indonesia. This project is open to anyone who wants to contribute. The purpose of the establishment of this project is one of them as a container of creativity and community of fellow activists GNU/Linux origin Indonesia. Interested in Joining? [Join Here].
+
+## Tim (Team)
+**Indonesia**
+Tim Dokumentasi.  
+Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
+
+**English**
+Tim Dokumentasi.  
 Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Mission
