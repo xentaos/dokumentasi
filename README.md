@@ -25,20 +25,16 @@ Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
 > sudo apt-get install bluefish
 
 ## Team
-Tim Dokumentasi.  
-Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
+Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Mission
-Mission Tim Dokumentasi.  
-Kunjungi [Website Developer](http://dev.xentaos.org/mission.html)
+Mission Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/mission.html)
 
 ## Project
-Project Tim Dokumentasi.  
-Kunjungi [Website Developer](http://dev.xentaos.org/project.html)
+Project Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/project.html)
 
 ## Progress
-Progress Tim Dokumentasi.  
-Kunjungi [Website Developer](http://dev.xentaos.org/progress.html)
+Progress Tim Dokumentasi. Kunjungi [Website Developer](http://dev.xentaos.org/progress.html)
 
 ## Notes
 **Contribution**
