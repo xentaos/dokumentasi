@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This file is part of Xenta OS  Organization - Project Management.
+# This file is part of Xenta OS Project Management.
 # 
 # update.sh is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -13,7 +13,6 @@
 repository=dokumentasi
 update="Update"
 figlet $repository
-#ping 8.8.8.8
 cd ..
 echo "Set Remote $team..."
 git remote set-url origin git@github.com:xentaos/$repository.git
