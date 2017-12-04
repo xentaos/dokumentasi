@@ -4,24 +4,24 @@ Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini 
 Perangkat Lunak yang diperlukan dalam Berkontribusi:  
 **Required:**  
  * [LibreOffice](https://www.libreoffice.org/)
-Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install libreoffice
 
  * [Evince](https://wiki.gnome.org/Apps/Evince)
-Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install evince
 
  * [Poedit](https://poedit.net/)
-Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install poedit
 
 **Optional:**  
  * [Geany](https://www.geany.org/)  
-Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install geany
 
  * [Bluefish](bluefish.openoffice.nl/)  
-Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
+Pemasangan Perangkat Lunak Melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install bluefish
 
 ## Team
