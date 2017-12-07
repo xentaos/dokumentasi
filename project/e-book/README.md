@@ -1,4 +1,4 @@
-## Project
+## E-Book Project
 **Panduan Desktop** <!-- ([project](desktop)) -->
  * E-Book Panduan Desktop Xenta OS Cinnamon Edisi
    <!-- [.odt](../blob/master/e-book/desktop/E-Book%20Panduan%20Desktop%20Xenta%20OS%20Cinnamon%20Edisi.odt) -->
@@ -7,7 +7,12 @@
 
 **Bagian Panduan Install** <!--  [project](install) -->
  * E-Book Panduan Installasi Xenta OS
+ > * Directory Kerja **./install** [Source](install).
+ > * Preview Berkas **.pdf** [Download](https://www.gitbook.com/download/pdf/book/xentaos/e-book-panduan-installasi-xenta-os)
+  > * Preview Berkas **.mobi** [Download](https://www.gitbook.com/download/mobi/book/xentaos/e-book-panduan-installasi-xenta-os)
+ > * Preview Berkas **.epub** [Download](https://www.gitbook.com/download/epub/book/xentaos/e-book-panduan-installasi-xenta-os)
 
+ 
 **Panduan Manual** <!-- [project](manual) -->
  * E-Book Panduan Manual Xenta OS
 
