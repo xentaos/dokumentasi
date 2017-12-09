@@ -1,1 +1,0 @@
-# Panduan Dasar File Manger {#panduan-dasar-file-manger}

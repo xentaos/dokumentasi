@@ -1,3 +1,0 @@
-## Sejarah {#sejarah}
-
-![](../assets/image44.svg)![](../assets/image44.png)Cinnamon adalah lingkungan desktop berbasis GNOME 3 . Dimulai pada tahun 2011\. Cinnamon awalnya dimulai sebagai garpu GNOME Shell , yang awalnya merupakan cangklas grafis perangkat lunak GNOME, namun menjadi lingkungan desktopnya sendiri di Cinnamon 2.0\. Cinnamon dikembangkan oleh distribusi Linux Mint , dengan adopsi yang lebih luas menyebar ke distribusi Linux lainnya dari waktu ke waktu.
