@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dokumentasi
 
 Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik bergabung ? [Gabung disini](http://dev.xentaos.org/join.html).
@@ -65,3 +66,16 @@ Progress Tim Dokumentasi. [Disini](http://dev.xentaos.org/progress.html)
 
 
 
+=======
+# E-Book Panduan Desktop Xenta OS Cinnamon Edisi 
+{#e-book-panduan-desktop-xenta-os-cinnamon-edisi}
+
+![](export/assets/image43.png)
+![](export/assets/image75.png)
+
+Project: E-Book  
+Section: Panduan  
+Divisi: Desktop  
+
+Copyright ©2018 Xenta OS CC BY-SA 4.0
+>>>>>>> 758582691225b59489c5508b7671139fd7d0eb5d
