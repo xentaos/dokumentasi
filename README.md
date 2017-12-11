@@ -1,5 +1,11 @@
-# Dokumentasi
+# Project 
+## Dokumentasi
 Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik bergabung ? [Gabung disini](http://dev.xentaos.org/join.html).
+
+Semua Project Tim Dokumentasi. [Disini](http://dev.xentaos.org/project.html)  
+Project Saat ini dikelola di Github Organisasi:  
+ * **E-Book** [Disini](https://github.com/xentaos/dokumentasi/projects/1)  
+ * **Translate** [Disini](https://github.com/xentaos/dokumentasi/projects/2)  
 
 Perangkat Lunak yang diperlukan dalam Berkontribusi:  
 **Required:**
@@ -23,27 +29,21 @@ Perangkat Lunak yang diperlukan dalam Berkontribusi:
 * [Bluefish](bluefish.openoffice.nl/)  
   Pemasangan Perangkat Lunak Melalui APT \(Debian/Ubuntu/Linux Mint/Xenta OS\).
   > sudo apt-get install bluefish
-
+---
+# Informasi
 ## Team
 Tim Dokumentasi. [Disini](http://dev.xentaos.org/team.html)
 
 ## Mission
 Mission Tim Dokumentasi. [Disini](http://dev.xentaos.org/mission.html)
 
-## Project
-Semua Project Tim Dokumentasi. [Disini](http://dev.xentaos.org/project.html)  
-Project Saat ini :  
- * **E-Book** [Disini](https://github.com/xentaos/dokumentasi/projects/1)  
- * **Translate** [Disini](https://github.com/xentaos/dokumentasi/projects/2)  
-
 ## Progress
 Progress Tim Dokumentasi. [Disini](http://dev.xentaos.org/progress.html)
-
-## Notes
+---
+# Notes
 **Contribution**
 * Dalam Berkontribusi Distro yang digunakan boleh bebas.
 * Memasang Perangkat Lunak yang dibutuhkan.
-
 **Developer**
 * Untuk menjadi Developer Xenta OS Persyaratan memasang Xenta OS\*.
 * Memasang Perangkat Lunak yang dibutuhkan.
