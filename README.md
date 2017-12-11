@@ -1,9 +1,9 @@
 # Project 
 ## Dokumentasi
-Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik bergabung ? [Gabung disini](http://dev.xentaos.org/join.html).
+Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia. Tertarik bergabung Menjadi Tim Dokumentasi ? [Ayo Gabung!](http://dev.xentaos.org/join.html)
 
-Project Semua Tim Dokumentasi Bisa di cek dihalaman [Xenta OS - Developer](http://dev.xentaos.org/project.html).  
-Project yang sedang dikerjakan di Github Xenta OS Organisasi:  
+Project Semua Tim Dokumentasi kunjungi dihalaman [Xenta OS - Developer](http://dev.xentaos.org/project.html).  
+Project yang sedang dikerjakan :  
  * [**E-Book**](https://github.com/xentaos/dokumentasi/projects/1)  
  > Project Pembuatan Dokumentasi Panduan.  
  * [**Translate**](https://github.com/xentaos/dokumentasi/projects/2)  
