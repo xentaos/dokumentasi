@@ -47,7 +47,7 @@ Progress Tim Dokumentasi. [Disini](http://dev.xentaos.org/progress.html)
 # Notes
 **Contribution**
 * Dalam Berkontribusi Distro yang digunakan boleh bebas.
-* Memasang Perangkat Lunak yang dibutuhkan.
+* Memasang Perangkat Lunak yang dibutuhkan.  
 **Developer**
 * Untuk menjadi Developer Xenta OS Persyaratan memasang Xenta OS\*.
 * Memasang Perangkat Lunak yang dibutuhkan.
