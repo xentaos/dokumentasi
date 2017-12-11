@@ -54,3 +54,5 @@ Progress Tim Dokumentasi. [Disini](http://dev.xentaos.org/progress.html)
   > **\*Kebijakan:**
   >
   > * Diijinkan menggunakan Distro selain Xenta OS dengan syarat memasang Xenta OS secara Virtual atau Dual Boot.
+ 
+Made with ❤ by Xenta OS - Developer.
