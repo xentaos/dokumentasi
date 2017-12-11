@@ -41,7 +41,9 @@ Mission Tim Dokumentasi. [Disini](http://dev.xentaos.org/mission.html)
 
 ## Progress
 Progress Tim Dokumentasi. [Disini](http://dev.xentaos.org/progress.html)
+
 ---
+
 # Notes
 **Contribution**
 * Dalam Berkontribusi Distro yang digunakan boleh bebas.
