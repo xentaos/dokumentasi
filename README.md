@@ -35,7 +35,7 @@ Perangkat Lunak yang diperlukan dalam mengerjakan Proyek:
 # Informasi
 |**Team**|**Mission**|**Progress**|
 |:---:|:---:|:---:|
-|Kunjungi halaman Xenta OS - Developer [Team](http://dev.xentaos.org/team.html)|Kunjungi halaman Xenta OS - Developer [Mission](http://dev.xentaos.org/mission.html)|Kunjungi halaman Xenta OS - Developer [Progress](http://dev.xentaos.org/progress.html)|
+|![Team](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/config-users.png)<br>Kunjungi halaman Xenta OS - Developer [Team](http://dev.xentaos.org/team.html)|![Mission](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-details.png)<br>Kunjungi halaman Xenta OS - Developer [Mission](http://dev.xentaos.org/mission.html)|![Progress](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-startup-programs.png)<br>Kunjungi halaman Xenta OS - Developer [Progress](http://dev.xentaos.org/progress.html)|
 
 ---
 
