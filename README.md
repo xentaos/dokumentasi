@@ -33,7 +33,7 @@ Perangkat Lunak yang diperlukan dalam mengerjakan Proyek:
   > sudo apt-get install bluefish
 ---
 # Informasi
-|Team|Mission|Progress|
+|**Team**|**Mission**|**Progress**|
 |:---:|:---:|:---:|
 |Kunjungi halaman Xenta OS - Developer [Team](http://dev.xentaos.org/team.html)|Kunjungi halaman Xenta OS - Developer [Mission](http://dev.xentaos.org/mission.html)|Kunjungi halaman Xenta OS - Developer [Progress](http://dev.xentaos.org/progress.html)|
 
