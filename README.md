@@ -51,4 +51,4 @@ Perangkat Lunak yang diperlukan dalam mengerjakan Proyek:
 ## Kebijakan
  * Diijinkan menggunakan Distro selain Xenta OS dengan syarat memasang Xenta OS secara Virtual atau Dual Boot.
  
-Made with ❤ by Xenta OS - Developer.
+Halaman ini dibuat dengan ❤ oleh _Xenta OS - Developer_ menggunakan bahasa Markup [**Markdown**](https://daringfireball.net/projects/markdown/syntax).
