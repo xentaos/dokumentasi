@@ -1,8 +1,7 @@
 # Maintainer
 ### Dindin Hernawan
-Facebook: [dindinG41TR3](https://facebook.com/dindinG41TR3)   
-Github:  [dindinG41TR3](https://github.com/dindinG41TR3)  
-E-Mail: <root@dev.xentaos.org>  
+Github: [dindinhernawan](https://github.com/dindinhernawan)  
+E-Mail: <dindinhernawan@yahoo.co.id>  
 
 **Group:**
  * Founder
